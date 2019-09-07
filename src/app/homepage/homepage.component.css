@@ -1,0 +1,54 @@
+
+.header{
+    color: black;
+    background-color: rgb(175, 162, 162);
+    max-width: 100%;
+    text-align: center
+}
+.col-lg-4{
+    text-align: center
+}
+.text{
+    text-align: center
+}
+.bankdetails{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: black
+}
+
+.bankdetails:hover{
+    background-color: white;
+    color: black
+}
+.dropdown{
+    max-width:100%;
+    border: none; 
+    outline: none;
+    border-radius: 75%
+}
+.search{
+    float:left
+}
+.p{
+    font: 100;
+    font-weight: bold;
+    font-size: 15px;
+    border-bottom: 1px solid black
+    
+}
+.searchfield{
+border-bottom: .5px solid black;
+border-left:none;
+border-right:none;
+border-top:none;
+}
+.searchfield:hover{
+    border-bottom: 2px solid red;
+    border-left: 2px solid  green;
+    border-top: 2px solid yellow;
+    border-right: 2px solid skyblue;
+    transition: .3s;
+}
+
+

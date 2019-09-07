@@ -1,0 +1,31 @@
+*{
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    max-width: 100vw;
+    max-height: 100vh;
+    background-color: green
+
+}
+.head
+{
+    text-align: center;
+     margin: 330px
+}
+.container
+{
+    width: auto;
+    color: skyblue;
+}
+.btn{
+ width: auto;height: auto; border-color:none; font-size: 40px
+}
+.btn:hover{
+    border-top: 1px solid violet;
+    border-left: 2px solid yellow;
+    border-right: 2px solid blue;
+    border-bottom: 1px solid firebrick;
+    transition: 2s;
+    color: white;
+    
+}
